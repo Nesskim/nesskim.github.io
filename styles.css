@@ -34,7 +34,7 @@ form {
     font-size: 25px;
 }
 
-.form-item input,
+.form-item input: hover;
 .form-item textarea {
     flex-basis: 50%;
 }
