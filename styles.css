@@ -41,7 +41,7 @@ form {
 
 .form-item input:hover,
 .form-item textarea:hover {
-    border: 2px solid
+    border: 2px solid black;
 }
 
 .form-item input,
