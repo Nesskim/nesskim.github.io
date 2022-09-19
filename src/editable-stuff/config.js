@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Vanessa",
   middleName: "",
   lastName: "Kim",
-  message: "Test Analyst, &#9830; Insurance Professional, &#9830; She Codes Student",
+  message: "Test Analyst | Insurance Professional | She Codes Student",
   icons: [
     {
       image: "fa-github",
@@ -90,10 +90,10 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 65 },
+    { name: "Python", value: 55 },
     { name: "JavaScript", value: 50 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 75 },
+    { name: "React", value: 55 },
+    { name: "HTML/CSS", value: 65 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -113,7 +113,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     " If you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "vanessa.jade.kim@hotmail.com",
+  email: "Vanessa.jade.kim@hotmail.com",
 };
 
 const experiences = {
