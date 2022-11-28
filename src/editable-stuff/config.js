@@ -44,7 +44,7 @@ const about = {
   imageLink: require("../editable-stuff/nesskim.jpg"),
   imageSize: 450,
   message:
-    "My name is Vanessa Kim. I am a dedicated Test Analyst at Auto & General with a history of meeting company goals utilizing consistent and organized practices. I am skilled in working under pressure and adapting to new situations and challenges to best enhance the organizational brand. In my free time I enjoy riding motorbikes, gardening and playing video games.",
+    "My name is Vanessa Kim. I am a dedicated Test Analyst at Auto & General with history of meeting company goals utilizing consistent and organized practices.I am skilled in working under pressure and adapting to new situations and challenges to best enhance the organizational brand. In my free time I enjoy riding motorbikes, gardening and playing video games.",
   resume: "https://drive.google.com/file/d/17Mqpp4zElPURoIfDujR8B1Uq1ZBV__tD/view?usp=sharing",
 }
 
